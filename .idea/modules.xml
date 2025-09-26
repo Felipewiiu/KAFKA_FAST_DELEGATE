@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/KAFKA_FAST_DELEGATE.iml" filepath="$PROJECT_DIR$/.idea/KAFKA_FAST_DELEGATE.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecommerce/ecommerce.iml" filepath="$PROJECT_DIR$/ecommerce/ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-http.iml" filepath="$PROJECT_DIR$/server-http.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-user.iml" filepath="$PROJECT_DIR$/service-user.iml" />
     </modules>
   </component>

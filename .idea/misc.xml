@@ -10,6 +10,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/ecommerce/common-kafka/service-http/pom.xml" />
         <option value="$PROJECT_DIR$/service-users/pom.xml" />
       </set>
     </option>
